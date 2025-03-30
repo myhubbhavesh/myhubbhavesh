@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myhubbhavesh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning to improve more in coding
+- 🌱 I’m currently learning to improve more in DSA
 - 📫 Reach me through my email : bhavesh.singh.connect@gmail.com
 
 <!---
